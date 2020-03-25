@@ -1,6 +1,7 @@
 # boju
 
-A new Flutter project.
+A Backgroung Image Changer App Flutter
+![ScreenShot](https://github.com/vipuluthaiah/Background-Image-Changer-/blob/master/assets/Screenshot_1585156586.png)
 
 ## Getting Started
 
